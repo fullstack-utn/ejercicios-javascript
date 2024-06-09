@@ -1,5 +1,9 @@
 # Ejercicios Javascript
 
+## Ejecucion
+
+Para poder correr estos scripts hay que tener instalado Node. Una vez instalado y bajado el repositorio, dentro de la carpeta, hay que ejecutar el comando `node <filename>.js` donde filename sera alguno de los 5 ejercicios.
+
 ## Ejercicio 1 - Convertir temperatura
 
 En base a una temperatura en grados, realizar un conversor de grados centigrados a Farenheit.
