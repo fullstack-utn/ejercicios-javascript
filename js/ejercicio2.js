@@ -2,7 +2,7 @@
 Ejercicio 2: Calculo del IMC
 Descripción: Calcula el Índice de Masa Corporal (IMC) de una persona y clasifica el resultado.
 */
-
+console.log("--------- Ejercicio 2 ---------");
 const height = 1.75;
 const weight = 80;
 
@@ -16,3 +16,4 @@ if (imc < 18.5) {
 } else if (imc >= 30) {
   console.log("obesidad");
 }
+console.log("-------------------------------");

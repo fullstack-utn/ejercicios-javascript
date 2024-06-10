@@ -2,6 +2,7 @@
 Ejercicio 3: Determinación de Números Primos
 Descripción: Determina si un número entero es primo.
 */
+console.log("--------- Ejercicio 3 ---------");
 const number = 69;
 let isPrime = true;
 if (number !== 1) {
@@ -19,3 +20,4 @@ if (isPrime) {
 } else {
   console.log("No es primo");
 }
+console.log("-------------------------------");

@@ -2,7 +2,7 @@
 Ejercicio 4: Operaciones Aritméticas Básicas
 Descripción: Realiza operaciones aritméticas básicas y muestra el mayor resultado.
 */
-
+console.log("--------- Ejercicio 4 ---------");
 const number1 = 5;
 const number2 = 9;
 const number3 = 2;
@@ -22,3 +22,5 @@ if (subtraction > addition && subtraction > multiplication) {
 if (multiplication > addition && multiplication > subtraction) {
   console.log("El mayor es el producto: " + multiplication);
 }
+
+console.log("-------------------------------");

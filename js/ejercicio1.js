@@ -2,6 +2,7 @@
 Ejercicio 1: Conversión de Temperaturas
 Descripción: Convierte una temperatura dada en grados Celsius a grados Fahrenheit y determina si la temperatura en Fahrenheit es alta, baja o moderada.
 */
+console.log("--------- Ejercicio 1 ---------");
 const celsius = 30;
 const celsiusToFarenheit = celsius * 1.8 + 32;
 
@@ -12,3 +13,4 @@ if (celsiusToFarenheit > 85) {
 } else {
   console.log("Temperatura MODERADA");
 }
+console.log("-------------------------------");
