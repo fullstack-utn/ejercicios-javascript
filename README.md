@@ -3,6 +3,7 @@
 ## Ejecucion
 
 Para poder correr estos scripts hay que tener instalado Node. Una vez instalado y bajado el repositorio, dentro de la carpeta, hay que ejecutar el comando `node <filename>.js` donde filename sera alguno de los 5 ejercicios.
+Otra alternativa, es entrar al [link](https://fullstack-utn.github.io/ejercicios-javascript/) y revisar con el inspector de codigo apretando F12 y navegando hasta la pestaña 'Console'.
 
 ## Ejercicio 1 - Convertir temperatura
 
